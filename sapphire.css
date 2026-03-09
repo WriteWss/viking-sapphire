@@ -81,8 +81,8 @@ a:hover {
   }
 }
 .landing-page header .links li {
-  margin-left: 10px;
   white-space: nowrap;
+  margin-left: 10px;
   color: #ffffff;
   cursor: pointer;
   transition: .3s;
@@ -151,5 +151,6 @@ a:hover {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
 
