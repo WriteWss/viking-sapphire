@@ -27,7 +27,7 @@ a:hover {
   padding-right: 5px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -70px;
+  margin-top: 0px;
 }
 @media (min-width: 780px) {
   .container {
@@ -149,4 +149,13 @@ a:hover {
 .landing-page .content .image img {
   max-width: 120%;
   margin-top: 50px;
+}
+.share-buttons, .post-share-buttons, .sharing {
+    display: none !important;
+}
+.main-inner {
+    padding-top: 0 !important;
+}
+footer, .footer-outer, .attribution {
+    display: none !important;
 }
