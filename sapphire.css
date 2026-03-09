@@ -65,7 +65,8 @@ a:hover {
       
 @media (max-width: 767px) {
   .landing-page header .container {
-    flex-direction: column;
+    flex-direction: row;
+	flex-wrap: wrap;
     justify-content: center;
   }
 }
@@ -151,6 +152,7 @@ a:hover {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
 
 
